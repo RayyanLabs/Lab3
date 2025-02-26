@@ -185,7 +185,9 @@ img, audio, video {
 }
 
 /* ===== BASE STYLES ===== */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+</style>
 
 body {
       background: rgb(98,98,98);
