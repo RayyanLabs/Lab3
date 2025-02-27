@@ -215,7 +215,8 @@ label {
    border-style:outset;
    border-width: 5px;
    border-color: grey;
-   border-radius: 10px
+   border-radius: 1em
+   box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
    padding: 5px
 
 /* ===== STATE STYLES ======= */
