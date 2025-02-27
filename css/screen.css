@@ -219,3 +219,11 @@ label {
    padding: 5px
 
 /* ===== STATE STYLES ======= */
+input[type="submit"] {
+   background-color : #d3d3d3;
+   color: black;
+   padding: 10px
+   border: none;
+   border-radius: 8px;
+   cursor: pointer
+   font-size:12px
