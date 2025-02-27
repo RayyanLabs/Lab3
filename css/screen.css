@@ -212,7 +212,7 @@ label {
 
 /* ===== LAYOUT STYLES ====== */
 #content{
-   border-style:solid;
+   border-style:outset;
    border-width: 5px;
    border-color: grey;
    border-radius: 10px
