@@ -185,9 +185,7 @@ img, audio, video {
 }
 
 /* ===== BASE STYLES ===== */
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
-</style>
+
 
 body {
       background: rgb(98,98,98);
@@ -216,8 +214,8 @@ label {
    border-width: 5px;
    border-radius: 1em;
    box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
-   padding: 5px
-
+   padding: 5px;
+}
 /* ===== STATE STYLES ======= */
 input[type="submit"] {
    background-color: #FFFFFF;
