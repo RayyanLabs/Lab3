@@ -233,7 +233,8 @@ input[type="email"]{
    width: 35%;
    border: none;
    border-radius: 4px;
-   
+}
+
 input[type="submit"] {
    background-color: #FFFFFF;
    color: black;
@@ -246,4 +247,18 @@ input[type="submit"] {
 
 input[type="submit"]:hover {
    background-color: #d3d3d3;
+}
+
+#input-age-verification {
+   margin-bottom: 25px;
+}
+
+#input-age-verification label {
+   margin-right: 10px;
+   display: inline;
+}
+
+#input-age-verification input[type="checkbox"]{
+   display: inline-block;
+   margin-left: 10px;
 }
