@@ -220,10 +220,14 @@ label {
 
 /* ===== STATE STYLES ======= */
 input[type="submit"] {
-   background-color : #d3d3d3;
+   background-color: #FFFFFF;
    color: black;
    padding: 10px
    border: none;
    border-radius: 8px;
    cursor: pointer
    font-size:12px
+
+input[type="submit"]:hover{
+   background-color: #d3d3d3;
+
